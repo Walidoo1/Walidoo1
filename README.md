@@ -1,6 +1,6 @@
 # Hi, I'm Walid
 
-Data engineer & DevOps at [Ippon Technologies](https://www.ippon.fr), based in Paris.
+Data engineer & DevOps based in Paris.
 I build data pipelines and cloud infrastructure, mostly with Spark, Python and AWS.
 
 ### Tech stack
